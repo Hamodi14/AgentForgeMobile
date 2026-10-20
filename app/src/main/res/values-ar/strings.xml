@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgentForge Mobile — وكيل البرمجة الذكي</string>
+    <string name="app_subtitle">وكيل برمجة ذاتي مستقل للهاتف</string>
+    <string name="open_project">فتح مشروع</string>
+    <string name="open_chat">محادثة الوكيل</string>
+    <string name="project_explorer">مستكشف المشروع</string>
+    <string name="execution_logs">سجل العمليات</string>
+    <string name="ai_providers">مزودو الذكاء الاصطناعي</string>
+    <string name="start_task">بدء المهمة</string>
+    <string name="pause_task">إيقاف مؤقت</string>
+    <string name="resume_task">استئناف</string>
+    <string name="cancel_task">إلغاء المهمة</string>
+    <string name="auto_mode">وضع التنفيذ التلقائي</string>
+    <string name="free_only_mode">وضع المجاني فقط</string>
+    <string name="status_idle">متوقف</string>
+    <string name="status_analyzing">قيد التحليل</string>
+    <string name="status_executing">ينفذ</string>
+    <string name="status_testing">يختبر</string>
+    <string name="status_awaiting_approval">ينتظر موافقة</string>
+    <string name="status_paused">متوقف مؤقتًا</string>
+    <string name="status_completed">مكتمل</string>
+    <string name="status_failed">متوقف لعائق</string>
+</resources>

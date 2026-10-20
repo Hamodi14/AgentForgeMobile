@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgentForge Mobile</string>
+    <string name="app_subtitle">Autonomous AI Coding Agent</string>
+    <string name="open_project">Open Project</string>
+    <string name="open_chat">Agent Chat</string>
+    <string name="project_explorer">Explorer</string>
+    <string name="execution_logs">Logs</string>
+    <string name="ai_providers">AI Providers</string>
+    <string name="start_task">Start Task</string>
+    <string name="pause_task">Pause</string>
+    <string name="resume_task">Resume</string>
+    <string name="cancel_task">Cancel</string>
+    <string name="auto_mode">Auto Execution Mode</string>
+    <string name="free_only_mode">Free-Only Mode</string>
+    <string name="status_idle">Idle</string>
+    <string name="status_analyzing">Analyzing</string>
+    <string name="status_executing">Executing</string>
+    <string name="status_testing">Testing</string>
+    <string name="status_awaiting_approval">Awaiting Approval</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_failed">Blocked / Failed</string>
+</resources>
